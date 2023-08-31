@@ -1,0 +1,72 @@
+[
+  {
+    "Table 1": [
+      {
+        "HORA": "7:00 a 7:50",
+        "LUNES": "",
+        "MARTES": "",
+        "MIERCOLES": "",
+        "JUEVES": "",
+        "VIERNES": ""
+      },
+      {
+        "HORA": "7:50 a 8:40",
+        "LUNES": "Fundamentos de la Informática Prof. Yetzi Villarroel A-06 - PRESENCIAL",
+        "MARTES": "Lógica Computacional Prof. Karima",
+        "MIERCOLES": "Fundamentos de la Informática Prof. Yetzi Villarroel",
+        "JUEVES": "Matemáticas I. Prof. Yaniris Hernández A DISTANCIA",
+        "VIERNES": "Química General"
+      },
+      {
+        "HORA": "8:45 a 9:35",
+        "LUNES": "",
+        "MARTES": "",
+        "MIERCOLES": "",
+        "JUEVES": "",
+        "VIERNES": "Prof. Isbelia González"
+      },
+      {
+        "HORA": "9:35 a 10:25",
+        "LUNES": "",
+        "MARTES": "A-06 - PRESENCIAL",
+        "MIERCOLES": "A DISTANCIA",
+        "JUEVES": "",
+        "VIERNES": "A DISTANCIA"
+      },
+      {
+        "HORA": "10:30 a 11:20",
+        "LUNES": "Química General Prof. Isbelia González A-06 - PRESENCIAL",
+        "MARTES": "Matemáticas I.",
+        "MIERCOLES": "Técnicas de Estudio e Investigación",
+        "JUEVES": "Lógica Computacional Prof. Kelvin Carima A DISTANCIA",
+        "VIERNES": "Comprensión y Expresión Lingüística"
+      },
+      {
+        "HORA": "11:20 a 12:10",
+        "LUNES": "",
+        "MARTES": "Prof. Yaniris Hernández",
+        "MIERCOLES": "Prof. Lescey Muñoz A-06 - DISTANCIA",
+        "JUEVES": "",
+        "VIERNES": "Prof. Ricardo Huaman A-06- DISTANCIA"
+      },
+      {
+        "HORA": "12:10 a 01:00",
+        "LUNES": "",
+        "MARTES": "A-06 - PRESENCIAL",
+        "MIERCOLES": "",
+        "JUEVES": "",
+        "VIERNES": ""
+      }
+    ],
+
+    "LAPSO": "2022-II",
+    "SEMESTRE": "I",
+    "LAPSO2": "2022-II",
+    "SEMESTRE2": "IV",
+    "SECCIÓN": "02",
+    "LAPSO3": "2022-II",
+    "SEMESTRE3": "V",
+    "SECCIÓN2": "01",
+    "created_at": "2023-05-30T23:09:10.679Z"
+  }
+]

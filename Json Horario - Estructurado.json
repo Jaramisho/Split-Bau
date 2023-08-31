@@ -1,0 +1,1647 @@
+[
+  {
+    "Table 1": [
+      {
+        "HORA": "7:00 a 7:50",
+        "LUNES": "",
+        "MARTES": "",
+        "MIERCOLES": "",
+        "JUEVES": "",
+        "VIERNES": ""
+      },
+      {
+        "HORA": "7:50 a 8:40",
+        "LUNES": "Fundamentos de la Informática Prof. Yetzi Villarroel A-06 - PRESENCIAL",
+        "MARTES": "Lógica Computacional Prof. Karima",
+        "MIERCOLES": "Fundamentos de la Informática Prof. Yetzi Villarroel",
+        "JUEVES": "Matemáticas I. Prof. Yaniris Hernández A DISTANCIA",
+        "VIERNES": "Química General"
+      },
+      {
+        "HORA": "8:45 a 9:35",
+        "LUNES": "",
+        "MARTES": "",
+        "MIERCOLES": "",
+        "JUEVES": "",
+        "VIERNES": "Prof. Isbelia González"
+      },
+      {
+        "HORA": "9:35 a 10:25",
+        "LUNES": "",
+        "MARTES": "A-06 - PRESENCIAL",
+        "MIERCOLES": "A DISTANCIA",
+        "JUEVES": "",
+        "VIERNES": "A DISTANCIA"
+      },
+      {
+        "HORA": "10:30 a 11:20",
+        "LUNES": "Química General Prof. Isbelia González A-06 - PRESENCIAL",
+        "MARTES": "Matemáticas I.",
+        "MIERCOLES": "Técnicas de Estudio e Investigación",
+        "JUEVES": "Lógica Computacional Prof. Kelvin Carima A DISTANCIA",
+        "VIERNES": "Comprensión y Expresión Lingüística"
+      },
+      {
+        "HORA": "11:20 a 12:10",
+        "LUNES": "",
+        "MARTES": "Prof. Yaniris Hernández",
+        "MIERCOLES": "Prof. Lescey Muñoz A-06 - DISTANCIA",
+        "JUEVES": "",
+        "VIERNES": "Prof. Ricardo Huaman A-06- DISTANCIA"
+      },
+      {
+        "HORA": "12:10 a 01:00",
+        "LUNES": "",
+        "MARTES": "A-06 - PRESENCIAL",
+        "MIERCOLES": "",
+        "JUEVES": "",
+        "VIERNES": ""
+      }
+    ],
+    "Table 2": [
+      {
+        "HORA": "7:00 a 7:50",
+        "LUNES": "",
+        "MARTES": "",
+        "MIERCOLES": "",
+        "JUEVES": "",
+        "VIERNES": ""
+      },
+      {
+        "HORA": "7:50 a 8:40",
+        "LUNES": "Matemáticas I. Prof. Yaniris Hernández A DISTANCIA",
+        "MARTES": "Fundamentos de la Informática Prof. Yetzi Villarroel A DISTANCIA",
+        "MIERCOLES": "Lógica Computacional",
+        "JUEVES": "Fundamentos de la Informática Prof. Yetzi Villarroel",
+        "VIERNES": "Comprensión y Expresión Lingüística"
+      },
+      {
+        "HORA": "8:45 a 9:35",
+        "LUNES": "",
+        "MARTES": "",
+        "MIERCOLES": "Prof. Karima",
+        "JUEVES": "",
+        "VIERNES": "Prof. Ricardo Huaman"
+      },
+      {
+        "HORA": "9:35 a 10:25",
+        "LUNES": "",
+        "MARTES": "",
+        "MIERCOLES": "A-06 - PRESENCIAL",
+        "JUEVES": "A-06 - PRESENCIAL",
+        "VIERNES": "A-06- DISTANCIA"
+      },
+      {
+        "HORA": "10:30 a 11:20",
+        "LUNES": "Lógica Computacional Prof. Kelvin Carima A DISTANCIA",
+        "MARTES": "Técnicas de Estudio e Investigación Prof. Nellys Medina A DISTANCIA",
+        "MIERCOLES": "Matemáticas I.",
+        "JUEVES": "Química General",
+        "VIERNES": "Química General"
+      },
+      {
+        "HORA": "11:20 a 12:10",
+        "LUNES": "",
+        "MARTES": "",
+        "MIERCOLES": "Prof. Yaniris Hernández",
+        "JUEVES": "Prof. Isbelia González",
+        "VIERNES": "Prof. Isbelia González"
+      },
+      {
+        "HORA": "12:10 a 01:00",
+        "LUNES": "",
+        "MARTES": "",
+        "MIERCOLES": "A-06 - PRESENCIAL",
+        "JUEVES": "A-06 - PRESENCIAL",
+        "VIERNES": "A DISTANCIA"
+      }
+    ],
+    "Table 3": [
+      {
+        "HORA": "7:00 a 7:50",
+        "LUNES": "",
+        "MARTES": "",
+        "MIERCOLES": "",
+        "JUEVES": "",
+        "VIERNES": ""
+      },
+      {
+        "HORA": "7:50 a 8:40",
+        "LUNES": "Matemáticas I. Prof. María Bejarano A DISTANCIA",
+        "MARTES": "Técnicas de Estudio e Investigación Prof. Nellys Medina A DISTANCIA",
+        "MIERCOLES": "Comprensión y Expresión Lingüística Prof. Katyuska Viña A DISTANCIA",
+        "JUEVES": "Lógica Computacional Prof. Karima",
+        "VIERNES": "Fundamentos de la Informática"
+      },
+      {
+        "HORA": "8:45 a 9:35",
+        "LUNES": "",
+        "MARTES": "",
+        "MIERCOLES": "",
+        "JUEVES": "",
+        "VIERNES": "Prof. Rodríguez José Luis"
+      },
+      {
+        "HORA": "9:35 a 10:25",
+        "LUNES": "",
+        "MARTES": "",
+        "MIERCOLES": "",
+        "JUEVES": "A-09 - PRESENCIAL",
+        "VIERNES": "A-06 - PRESENCIAL"
+      },
+      {
+        "HORA": "10:30 a 11:20",
+        "LUNES": "Lógica Computacional Prof. Kelvin Carima A DISTANCIA",
+        "MARTES": "Fundamentos de la Informática Prof. Rodríguez José Luis",
+        "MIERCOLES": "Química General Prof. Villarroel José",
+        "JUEVES": "Matemáticas I.",
+        "VIERNES": "Química General"
+      },
+      {
+        "HORA": "11:20 a 12:10",
+        "LUNES": "",
+        "MARTES": "",
+        "MIERCOLES": "",
+        "JUEVES": "Prof. María Bejarano",
+        "VIERNES": "Prof. Villarroel José"
+      },
+      {
+        "HORA": "12:10 a 01:00",
+        "LUNES": "",
+        "MARTES": "A DISTANCIA",
+        "MIERCOLES": "A DISTANCIA",
+        "JUEVES": "A-09 - PRESENCIAL",
+        "VIERNES": "A-06 - PRESENCIAL"
+      }
+    ],
+    "Table 4": [
+      {
+        "HORA": "7:00 a 7:50",
+        "LUNES": "",
+        "MARTES": "",
+        "MIERCOLES": "",
+        "JUEVES": "",
+        "VIERNES": ""
+      },
+      {
+        "HORA": "7:50 a 8:40",
+        "LUNES": "Técnicas de Estudio e Investigación Prof. Claribel Amaiz A DISTANCIA",
+        "MARTES": "Lógica Computacional Prof. Ana Sosa A DISTANCIA",
+        "MIERCOLES": "Química General Prof. Villarroel José A DISTANCIA",
+        "JUEVES": "Lógica Computacional Prof. Ana Sosa",
+        "VIERNES": "Fundamentos de la Informática"
+      },
+      {
+        "HORA": "8:45 a 9:35",
+        "LUNES": "",
+        "MARTES": "",
+        "MIERCOLES": "",
+        "JUEVES": "",
+        "VIERNES": "Prof. William Mercado"
+      },
+      {
+        "HORA": "9:35 a 10:25",
+        "LUNES": "",
+        "MARTES": "",
+        "MIERCOLES": "",
+        "JUEVES": "A-10 - PRESENCIAL",
+        "VIERNES": "A-09 - PRESENCIAL"
+      },
+      {
+        "HORA": "10:30 a 11:20",
+        "LUNES": "Matemáticas I. Prof. María Bejarano A DISTANCIA",
+        "MARTES": "Fundamentos de la Informática Prof. William Mercado A DISTANCIA",
+        "MIERCOLES": "Comprensión y Expresión Lingüística Prof. YURBYS PÉREZ A DISTANCIA",
+        "JUEVES": "Química General",
+        "VIERNES": "Matemáticas I."
+      },
+      {
+        "HORA": "11:20 a 12:10",
+        "LUNES": "",
+        "MARTES": "",
+        "MIERCOLES": "",
+        "JUEVES": "Prof. Villarroel José",
+        "VIERNES": "Prof. María Bejarano"
+      },
+      {
+        "HORA": "12:10 a 01:00",
+        "LUNES": "",
+        "MARTES": "",
+        "MIERCOLES": "",
+        "JUEVES": "A-10 - PRESENCIAL",
+        "VIERNES": "A-09 - PRESENCIAL"
+      }
+    ],
+    "Table 5": [
+      {
+        "HORA": "7:00 a 7:50",
+        "LUNES": "",
+        "MARTES": "",
+        "MIERCOLES": "",
+        "JUEVES": "",
+        "VIERNES": ""
+      },
+      {
+        "HORA": "7:50 a 8:40",
+        "LUNES": "Matemáticas I. Prof. Pierre Hilda A DISTANCIA",
+        "MARTES": "Fundamentos de la Informática",
+        "MIERCOLES": "Matemáticas I.",
+        "JUEVES": "Química General Prof. Blanca Ibañez A DISTANCIA",
+        "VIERNES": "Fundamentos de la Informática"
+      },
+      {
+        "HORA": "8:45 a 9:35",
+        "LUNES": "",
+        "MARTES": "Prof. Clinia Cordero",
+        "MIERCOLES": "Prof. Pierre Hilda",
+        "JUEVES": "",
+        "VIERNES": "Prof. Clinia Cordero"
+      },
+      {
+        "HORA": "9:35 a 10:25",
+        "LUNES": "",
+        "MARTES": "A-09 - PRESENCIAL",
+        "MIERCOLES": "A-09 - PRESENCIAL",
+        "JUEVES": "",
+        "VIERNES": "A DISTANCIA"
+      },
+      {
+        "HORA": "10:30 a 11:20",
+        "LUNES": "Técnicas de Estudio e Investigación Prof. Claribel Amaiz A DISTANCIA",
+        "MARTES": "Lógica Computacional Prof. Ana Sosa",
+        "MIERCOLES": "Química General",
+        "JUEVES": "Comprensión y Expresión Lingüística Prof. YURBYS PÉREZ A DISTANCIA",
+        "VIERNES": "Lógica Computacional Prof. Ana Sosa"
+      },
+      {
+        "HORA": "11:20 a 12:10",
+        "LUNES": "",
+        "MARTES": "",
+        "MIERCOLES": "Prof. Blanca Ibañez",
+        "JUEVES": "",
+        "VIERNES": ""
+      },
+      {
+        "HORA": "12:10 a 01:00",
+        "LUNES": "",
+        "MARTES": "A-09 - PRESENCIAL",
+        "MIERCOLES": "A-09 - PRESENCIAL",
+        "JUEVES": "",
+        "VIERNES": "A DISTANCIA"
+      }
+    ],
+    "Table 6": [
+      {
+        "HORA": "7:00 a 7:50",
+        "LUNES": "",
+        "MARTES": "",
+        "MIERCOLES": "",
+        "JUEVES": "",
+        "VIERNES": ""
+      },
+      {
+        "HORA": "7:50 a 8:40",
+        "LUNES": "Fundamentos de la Informática",
+        "MARTES": "Matemáticas I.",
+        "MIERCOLES": "Química General",
+        "JUEVES": "Matemáticas I.",
+        "VIERNES": "Fundamentos de la Informática"
+      },
+      {
+        "HORA": "8:45 a 9:35",
+        "LUNES": "Prof. Clinia Cordero A-09 - PRESENCIAL",
+        "MARTES": "Prof. Pierre Hilda",
+        "MIERCOLES": "Prof. Blanca Ibañez",
+        "JUEVES": "Prof. Pierre Hilda",
+        "VIERNES": "Prof. Clinia Cordero"
+      },
+      {
+        "HORA": "9:35 a 10:25",
+        "LUNES": "",
+        "MARTES": "A DISTANCIA",
+        "MIERCOLES": "A DISTANCIA",
+        "JUEVES": "A-10 - PRESENCIAL",
+        "VIERNES": "A DISTANCIA"
+      },
+      {
+        "HORA": "10:30 a 11:20",
+        "LUNES": "Lógica Computacional Prof. Hernán Rivas A-09 - PRESENCIAL",
+        "MARTES": "Técnicas de Estudio e Investigación Prof. Claribel Amaiz",
+        "MIERCOLES": "Comprensión y Expresión Lingüística Por Asignar",
+        "JUEVES": "Química General",
+        "VIERNES": "Lógica Computacional"
+      },
+      {
+        "HORA": "11:20 a 12:10",
+        "LUNES": "",
+        "MARTES": "",
+        "MIERCOLES": "",
+        "JUEVES": "Prof. Blanca Ibañez",
+        "VIERNES": "Prof. Hernán Rivas"
+      },
+      {
+        "HORA": "12:10 a 01:00",
+        "LUNES": "",
+        "MARTES": "A DISTANCIA",
+        "MIERCOLES": "A DISTANCIA",
+        "JUEVES": "A-10 - PRESENCIAL",
+        "VIERNES": "A DISTANCIA"
+      }
+    ],
+    "Table 7": [
+      {
+        "HORA": "7:00 a 7:50",
+        "LUNES": "",
+        "MARTES": "",
+        "MIERCOLES": "",
+        "JUEVES": "",
+        "VIERNES": ""
+      },
+      {
+        "HORA": "7:50 a 8:40",
+        "LUNES": "Fundamentos de la Informática Prof. José Caldera",
+        "MARTES": "Matemáticas I.",
+        "MIERCOLES": "Química General",
+        "JUEVES": "Técnicas de Estudio e Investigación Prof. Dollis Córdoba A DISTANCIA",
+        "VIERNES": "Fundamentos de la Informática"
+      },
+      {
+        "HORA": "8:45 a 9:35",
+        "LUNES": "",
+        "MARTES": "Prof. Pierre Hilda",
+        "MIERCOLES": "Prof. Juan V. Brazón",
+        "JUEVES": "",
+        "VIERNES": "Prof. José Caldera"
+      },
+      {
+        "HORA": "9:35 a 10:25",
+        "LUNES": "A-10 - PRESENCIAL",
+        "MARTES": "A-10 - PRESENCIAL",
+        "MIERCOLES": "A DISTANCIA",
+        "JUEVES": "",
+        "VIERNES": "A DISTANCIA"
+      },
+      {
+        "HORA": "10:30 a 11:20",
+        "LUNES": "Lógica Computacional Prof. Hernán Rivas A-10 - PRESENCIAL",
+        "MARTES": "Química General",
+        "MIERCOLES": "Comprensión y Expresión Lingüística",
+        "JUEVES": "Matemáticas I. Prof. Pierre Hilda",
+        "VIERNES": "Lógica Computacional"
+      },
+      {
+        "HORA": "11:20 a 12:10",
+        "LUNES": "",
+        "MARTES": "Prof. Juan V. Brazón",
+        "MIERCOLES": "Por Asignar",
+        "JUEVES": "",
+        "VIERNES": "Prof. Hernán Rivas"
+      },
+      {
+        "HORA": "12:10 a 01:00",
+        "LUNES": "",
+        "MARTES": "A-10 - PRESENCIAL",
+        "MIERCOLES": "A DISTANCIA",
+        "JUEVES": "A DISTANCIA",
+        "VIERNES": "A DISTANCIA"
+      }
+    ],
+    "Table 8": [
+      {
+        "HORA": "7:00 a 7:50",
+        "LUNES": "",
+        "MARTES": "",
+        "MIERCOLES": "",
+        "JUEVES": "",
+        "VIERNES": ""
+      },
+      {
+        "HORA": "7:50 a 8:40",
+        "LUNES": "Química General Prof. Alcalá Elisa A DISTANCIA",
+        "MARTES": "",
+        "MIERCOLES": "Fundamentos de la Informática",
+        "JUEVES": "",
+        "VIERNES": ""
+      },
+      {
+        "HORA": "8:45 a 9:35",
+        "LUNES": "",
+        "MARTES": "",
+        "MIERCOLES": "Prof. José Caldera",
+        "JUEVES": "",
+        "VIERNES": ""
+      },
+      {
+        "HORA": "9:35 a 10:25",
+        "LUNES": "",
+        "MARTES": "",
+        "MIERCOLES": "A-10 - PRESENCIAL",
+        "JUEVES": "",
+        "VIERNES": ""
+      },
+      {
+        "HORA": "10:30 a 11:20",
+        "LUNES": "Matemáticas I.",
+        "MARTES": "",
+        "MIERCOLES": "Química General",
+        "JUEVES": "Fundamentos de la Informática Prof. José Caldera A DISTANCIA",
+        "VIERNES": "Matemáticas I."
+      },
+      {
+        "HORA": "11:20 a 12:10",
+        "LUNES": "Prof. Pierre Hilda",
+        "MARTES": "",
+        "MIERCOLES": "Prof. Alcalá Elisa",
+        "JUEVES": "",
+        "VIERNES": "Prof. Pierre Hilda"
+      },
+      {
+        "HORA": "12:10 a 01:00",
+        "LUNES": "A DISTANCIA",
+        "MARTES": "",
+        "MIERCOLES": "A-10 - PRESENCIAL",
+        "JUEVES": "",
+        "VIERNES": "A-11 - PRESENCIAL"
+      }
+    ],
+    "Table 9": [
+      {
+        "HORA": "7:00 a 7:50",
+        "LUNES": "",
+        "MARTES": "",
+        "MIERCOLES": "",
+        "JUEVES": "",
+        "VIERNES": ""
+      },
+      {
+        "HORA": "7:50 a 8:40",
+        "LUNES": "Inglés I Prof. Mauro Chacón A-11 - PRESENCIAL",
+        "MARTES": "Técnicas de Programación I Prof. López Karla",
+        "MIERCOLES": "Física I",
+        "JUEVES": "Introducción a la Administración",
+        "VIERNES": "Física I"
+      },
+      {
+        "HORA": "8:45 a 9:35",
+        "LUNES": "",
+        "MARTES": "",
+        "MIERCOLES": "Prof. Jamil Mendoza",
+        "JUEVES": "Prof. Estela Salguero A-11 - PRESENCIAL",
+        "VIERNES": "Prof. Jamil Mendoza"
+      },
+      {
+        "HORA": "9:35 a 10:25",
+        "LUNES": "",
+        "MARTES": "A-11 - PRESENCIAL",
+        "MIERCOLES": "A DISTANCIA",
+        "JUEVES": "",
+        "VIERNES": "A-11 - PRESENCIAL"
+      },
+      {
+        "HORA": "10:30 a 11:20",
+        "LUNES": "Técnicas de Programación I Prof. López Karla A DISTANCIA",
+        "MARTES": "Matemáticas II Prof. Betty Pierre A-11 - PRESENCIAL",
+        "MIERCOLES": "Algebra Lineal",
+        "JUEVES": "Algebra Lineal Prof. Yolimar Medina A-11 - PRESENCIAL",
+        "VIERNES": "Matemáticas II"
+      },
+      {
+        "HORA": "11:20 a 12:10",
+        "LUNES": "",
+        "MARTES": "",
+        "MIERCOLES": "Prof. Yolimar Medina",
+        "JUEVES": "",
+        "VIERNES": "Prof. Betty Pierre"
+      },
+      {
+        "HORA": "12:10 a 01:00",
+        "LUNES": "",
+        "MARTES": "",
+        "MIERCOLES": "A DISTANCIA",
+        "JUEVES": "",
+        "VIERNES": "A DISTANCIA"
+      }
+    ],
+    "Table 10": [
+      {
+        "HORA": "1:10 a 02:00",
+        "LUNES": "",
+        "MARTES": "",
+        "MIERCOLES": "DIBUJO E INTERP. DE PLANOS",
+        "JUEVES": "",
+        "VIERNES": ""
+      },
+      {
+        "HORA": "2:00 a 2:50",
+        "LUNES": "",
+        "MARTES": "",
+        "MIERCOLES": "Prof. Por Asignar",
+        "JUEVES": "",
+        "VIERNES": ""
+      },
+      {
+        "HORA": "2:55 a 3:45",
+        "LUNES": "",
+        "MARTES": "",
+        "MIERCOLES": "Villa Asia",
+        "JUEVES": "",
+        "VIERNES": ""
+      },
+      {
+        "HORA": "3:45 a 4:35",
+        "LUNES": "",
+        "MARTES": "",
+        "MIERCOLES": "",
+        "JUEVES": "",
+        "VIERNES": ""
+      }
+    ],
+    "Table 11": [
+      {
+        "HORA": "7:00 a 7:50",
+        "LUNES": "",
+        "MARTES": "",
+        "MIERCOLES": "",
+        "JUEVES": "",
+        "VIERNES": ""
+      },
+      {
+        "HORA": "7:50 a 8:40",
+        "LUNES": "Algebra Lineal Prof. Yolimar Medina A-12 - PRESENCIAL",
+        "MARTES": "Técnicas de Programación I",
+        "MIERCOLES": "Inglés I",
+        "JUEVES": "Física I Prof. Jamil Mendoza A DISTANCIA",
+        "VIERNES": "Matemáticas II"
+      },
+      {
+        "HORA": "8:45 a 9:35",
+        "LUNES": "",
+        "MARTES": "Prof. Ennis Urbáez",
+        "MIERCOLES": "Prof. Por Asignar",
+        "JUEVES": "",
+        "VIERNES": "Prof. Betty Pierre"
+      },
+      {
+        "HORA": "9:35 a 10:25",
+        "LUNES": "",
+        "MARTES": "A-12 - PRESENCIAL",
+        "MIERCOLES": "A-11 - PRESENCIAL",
+        "JUEVES": "",
+        "VIERNES": "A-12 - PRESENCIAL"
+      },
+      {
+        "HORA": "10:30 a 11:20",
+        "LUNES": "Introducción a la Administración Prof. José Valls A-11 - PRESENCIAL",
+        "MARTES": "Matemáticas II",
+        "MIERCOLES": "Física I",
+        "JUEVES": "Técnicas de Programación I",
+        "VIERNES": "Algebra Lineal"
+      },
+      {
+        "HORA": "11:20 a 12:10",
+        "LUNES": "",
+        "MARTES": "Prof. Betty Pierre",
+        "MIERCOLES": "Prof. Jamil Mendoza",
+        "JUEVES": "Prof. Ennis Urbáez",
+        "VIERNES": "Prof. Yolimar Medina"
+      },
+      {
+        "HORA": "12:10 a 01:00",
+        "LUNES": "",
+        "MARTES": "A DISTANCIA",
+        "MIERCOLES": "A-11 - PRESENCIAL",
+        "JUEVES": "A DISTANCIA",
+        "VIERNES": "A DISTANCIA"
+      }
+    ],
+    "Table 12": [
+      {
+        "HORA": "1:10 a 02:00",
+        "LUNES": "",
+        "MARTES": "",
+        "MIERCOLES": "",
+        "JUEVES": "DIBUJO E INTERP. DE PLANOS",
+        "VIERNES": ""
+      },
+      {
+        "HORA": "2:00 a 2:50",
+        "LUNES": "",
+        "MARTES": "",
+        "MIERCOLES": "",
+        "JUEVES": "Prof. Por Asignar",
+        "VIERNES": ""
+      },
+      {
+        "HORA": "2:55 a 3:45",
+        "LUNES": "",
+        "MARTES": "",
+        "MIERCOLES": "",
+        "JUEVES": "Villa Asia",
+        "VIERNES": ""
+      },
+      {
+        "HORA": "3:45 a 4:35",
+        "LUNES": "",
+        "MARTES": "",
+        "MIERCOLES": "",
+        "JUEVES": "PRESENCIAL",
+        "VIERNES": ""
+      }
+    ],
+    "Table 13": [
+      {
+        "HORA": "7:00 a 7:50",
+        "LUNES": "",
+        "MARTES": "",
+        "MIERCOLES": "",
+        "JUEVES": "",
+        "VIERNES": ""
+      },
+      {
+        "HORA": "7:50 a 8:40",
+        "LUNES": "Técnicas de Programación I",
+        "MARTES": "Física I",
+        "MIERCOLES": "Matemáticas II",
+        "JUEVES": "Matemáticas II",
+        "VIERNES": ""
+      },
+      {
+        "HORA": "8:45 a 9:35",
+        "LUNES": "Prof. Oscar Salazar",
+        "MARTES": "Prof. Jamil Mendoza",
+        "MIERCOLES": "Prof. Maurin Bastidas",
+        "JUEVES": "Prof. Maurin Bastidas",
+        "VIERNES": ""
+      },
+      {
+        "HORA": "9:35 a 10:25",
+        "LUNES": "A-15 - PRESENCIAL",
+        "MARTES": "A DISTANCIA",
+        "MIERCOLES": "A-12 - PRESENCIAL",
+        "JUEVES": "A DISTANCIA",
+        "VIERNES": ""
+      },
+      {
+        "HORA": "10:30 a 11:20",
+        "LUNES": "Algebra Lineal",
+        "MARTES": "Física I",
+        "MIERCOLES": "Algebra Lineal",
+        "JUEVES": "",
+        "VIERNES": "Inglés I"
+      },
+      {
+        "HORA": "11:20 a 12:10",
+        "LUNES": "Prof. Yolimar Medina",
+        "MARTES": "Prof. Jamil Mendoza",
+        "MIERCOLES": "Prof. Yolimar Medina",
+        "JUEVES": "",
+        "VIERNES": "Prof. Mauro Chacón"
+      },
+      {
+        "HORA": "12:10 a 01:00",
+        "LUNES": "A DISTANCIA",
+        "MARTES": "A-12 - PRESENCIAL",
+        "MIERCOLES": "A-12 - PRESENCIAL",
+        "JUEVES": "",
+        "VIERNES": "A-12 - PRESENCIAL"
+      }
+    ],
+    "Table 14": [
+      {
+        "HORA": "1:10 a 02:00",
+        "LUNES": "DIBUJO E INTERP. DE PLANOS",
+        "MARTES": "",
+        "MIERCOLES": "",
+        "JUEVES": "",
+        "VIERNES": ""
+      },
+      {
+        "HORA": "2:00 a 2:50",
+        "LUNES": "Prof. Por Asignar",
+        "MARTES": "",
+        "MIERCOLES": "",
+        "JUEVES": "",
+        "VIERNES": ""
+      },
+      {
+        "HORA": "2:55 a 3:45",
+        "LUNES": "Villa Asia",
+        "MARTES": "",
+        "MIERCOLES": "",
+        "JUEVES": "",
+        "VIERNES": ""
+      },
+      {
+        "HORA": "3:45 a 4:35",
+        "LUNES": "PRESENCIAL",
+        "MARTES": "",
+        "MIERCOLES": "",
+        "JUEVES": "",
+        "VIERNES": ""
+      }
+    ],
+    "Table 15": [
+      {
+        "HORA": "7:00 a 7:50",
+        "LUNES": "",
+        "MARTES": "",
+        "MIERCOLES": "",
+        "JUEVES": "",
+        "VIERNES": ""
+      },
+      {
+        "HORA": "7:50 a 8:40",
+        "LUNES": "Física I",
+        "MARTES": "",
+        "MIERCOLES": "",
+        "JUEVES": "Matemáticas II",
+        "VIERNES": ""
+      },
+      {
+        "HORA": "8:45 a 9:35",
+        "LUNES": "Prof. Fennández Rosa Amelia",
+        "MARTES": "",
+        "MIERCOLES": "",
+        "JUEVES": "Prof. Maurin Bastidas",
+        "VIERNES": ""
+      },
+      {
+        "HORA": "9:35 a 10:25",
+        "LUNES": "A DISTANCIA",
+        "MARTES": "",
+        "MIERCOLES": "",
+        "JUEVES": "A-12 - PRESENCIAL",
+        "VIERNES": ""
+      },
+      {
+        "HORA": "10:30 a 11:20",
+        "LUNES": "Matemáticas II",
+        "MARTES": "",
+        "MIERCOLES": "",
+        "JUEVES": "Física I",
+        "VIERNES": ""
+      },
+      {
+        "HORA": "11:20 a 12:10",
+        "LUNES": "Prof. Maurin Bastidas",
+        "MARTES": "",
+        "MIERCOLES": "",
+        "JUEVES": "Prof. Fennández Rosa Amelia",
+        "VIERNES": ""
+      },
+      {
+        "HORA": "12:10 a 01:00",
+        "LUNES": "A DISTANCIA",
+        "MARTES": "",
+        "MIERCOLES": "",
+        "JUEVES": "A-12 - PRESENCIAL",
+        "VIERNES": ""
+      }
+    ],
+    "Table 16": [
+      {
+        "HORA": "1:10 a 02:00",
+        "LUNES": "",
+        "MARTES": "DIBUJO E INTERP. DE PLANOS",
+        "MIERCOLES": "",
+        "JUEVES": "",
+        "VIERNES": ""
+      },
+      {
+        "HORA": "2:00 a 2:50",
+        "LUNES": "",
+        "MARTES": "Prof. Por Asignar",
+        "MIERCOLES": "",
+        "JUEVES": "",
+        "VIERNES": ""
+      },
+      {
+        "HORA": "2:55 a 3:45",
+        "LUNES": "",
+        "MARTES": "Villa Asia",
+        "MIERCOLES": "",
+        "JUEVES": "",
+        "VIERNES": ""
+      },
+      {
+        "HORA": "3:45 a 4:35",
+        "LUNES": "",
+        "MARTES": "PRESENCIAL",
+        "MIERCOLES": "",
+        "JUEVES": "",
+        "VIERNES": ""
+      }
+    ],
+    "Table 17": [
+      {
+        "HORA": "1:10 a 02:00",
+        "LUNES": "",
+        "MARTES": "",
+        "MIERCOLES": "",
+        "JUEVES": "",
+        "VIERNES": "DIBUJO E INTERP. DE PLANOS"
+      },
+      {
+        "HORA": "2:00 a 2:50",
+        "LUNES": "",
+        "MARTES": "",
+        "MIERCOLES": "",
+        "JUEVES": "",
+        "VIERNES": "Prof. Por Asignar"
+      },
+      {
+        "HORA": "2:55 a 3:45",
+        "LUNES": "",
+        "MARTES": "",
+        "MIERCOLES": "",
+        "JUEVES": "",
+        "VIERNES": "Villa Asia"
+      },
+      {
+        "HORA": "3:45 a 4:35",
+        "LUNES": "",
+        "MARTES": "",
+        "MIERCOLES": "",
+        "JUEVES": "",
+        "VIERNES": "PRESENCIAL"
+      }
+    ],
+    "Table 18": [
+      {
+        "HORA": "7:00 a 7:50",
+        "LUNES": "",
+        "MARTES": "",
+        "MIERCOLES": "",
+        "JUEVES": "",
+        "VIERNES": ""
+      },
+      {
+        "HORA": "7:50 a 8:40",
+        "LUNES": "",
+        "MARTES": "",
+        "MIERCOLES": "DIBUJO E INTERP. DE PLANOS",
+        "JUEVES": "",
+        "VIERNES": ""
+      },
+      {
+        "HORA": "8:45 a 9:35",
+        "LUNES": "",
+        "MARTES": "",
+        "MIERCOLES": "Prof. Por Asignar",
+        "JUEVES": "",
+        "VIERNES": ""
+      },
+      {
+        "HORA": "9:35 a 10:25",
+        "LUNES": "",
+        "MARTES": "",
+        "MIERCOLES": "Villa Asia",
+        "JUEVES": "",
+        "VIERNES": ""
+      },
+      {
+        "HORA": "10:30 a 11:20",
+        "LUNES": "",
+        "MARTES": "",
+        "MIERCOLES": "PRESENCIAL",
+        "JUEVES": "",
+        "VIERNES": ""
+      },
+      {
+        "HORA": "11:20 a 12:10",
+        "LUNES": "",
+        "MARTES": "",
+        "MIERCOLES": "",
+        "JUEVES": "",
+        "VIERNES": ""
+      },
+      {
+        "HORA": "12:10 a 01:00",
+        "LUNES": "",
+        "MARTES": "",
+        "MIERCOLES": "",
+        "JUEVES": "",
+        "VIERNES": ""
+      }
+    ],
+    "Table 19": [
+      {
+        "HORA": "7:00 a 7:50",
+        "LUNES": "",
+        "MARTES": "",
+        "MIERCOLES": "",
+        "JUEVES": "",
+        "VIERNES": ""
+      },
+      {
+        "HORA": "7:50 a 8:40",
+        "LUNES": "",
+        "MARTES": "",
+        "MIERCOLES": "",
+        "JUEVES": "DIBUJO E INTERP. DE PLANOS",
+        "VIERNES": ""
+      },
+      {
+        "HORA": "8:45 a 9:35",
+        "LUNES": "",
+        "MARTES": "",
+        "MIERCOLES": "",
+        "JUEVES": "Prof. Por Asignar",
+        "VIERNES": ""
+      },
+      {
+        "HORA": "9:35 a 10:25",
+        "LUNES": "",
+        "MARTES": "",
+        "MIERCOLES": "",
+        "JUEVES": "Villa Asia",
+        "VIERNES": ""
+      },
+      {
+        "HORA": "10:30 a 11:20",
+        "LUNES": "",
+        "MARTES": "",
+        "MIERCOLES": "",
+        "JUEVES": "PRESENCIAL",
+        "VIERNES": ""
+      },
+      {
+        "HORA": "11:20 a 12:10",
+        "LUNES": "",
+        "MARTES": "",
+        "MIERCOLES": "",
+        "JUEVES": "",
+        "VIERNES": ""
+      },
+      {
+        "HORA": "12:10 a 01:00",
+        "LUNES": "",
+        "MARTES": "",
+        "MIERCOLES": "",
+        "JUEVES": "",
+        "VIERNES": ""
+      }
+    ],
+    "Table 20": [
+      {
+        "HORA": "7:00 a 7:50",
+        "LUNES": "",
+        "MARTES": "",
+        "MIERCOLES": "",
+        "JUEVES": "",
+        "VIERNES": ""
+      },
+      {
+        "HORA": "7:50 a 8:40",
+        "LUNES": "Matemáticas Discretas Prof. Domingo Quijada A-12 - PRESENCIAL",
+        "MARTES": "FISICA II Prof. Roberto Lárez",
+        "MIERCOLES": "Matemáticas III",
+        "JUEVES": "Matemáticas Discretas Prof. Domingo Quijada A DISTANCIA",
+        "VIERNES": "Técnicas de Programación II Prof. José Luis Salazar"
+      },
+      {
+        "HORA": "8:45 a 9:35",
+        "LUNES": "",
+        "MARTES": "",
+        "MIERCOLES": "Prof. Betty Pierre",
+        "JUEVES": "",
+        "VIERNES": ""
+      },
+      {
+        "HORA": "9:35 a 10:25",
+        "LUNES": "",
+        "MARTES": "A-13 - PRESENCIAL",
+        "MIERCOLES": "A-13- PRESENCIAL",
+        "JUEVES": "",
+        "VIERNES": "A DISTANCIA"
+      },
+      {
+        "HORA": "10:30 a 11:20",
+        "LUNES": "Inglés Técnico Prof. DELGADO YUDERUD A-13- PRESENCIAL",
+        "MARTES": "Técnicas de Programación II Prof. José Luis Salazar A-13 - PRESENCIAL",
+        "MIERCOLES": "Desarrollo Humano",
+        "JUEVES": "Matemáticas III Prof. Betty Pierre A DISTANCIA",
+        "VIERNES": "FISICA II"
+      },
+      {
+        "HORA": "11:20 a 12:10",
+        "LUNES": "",
+        "MARTES": "",
+        "MIERCOLES": "Prof. María Mentor A-13- PRESENCIAL",
+        "JUEVES": "",
+        "VIERNES": "Prof. Roberto Lárez"
+      },
+      {
+        "HORA": "12:10 a 01:00",
+        "LUNES": "",
+        "MARTES": "",
+        "MIERCOLES": "",
+        "JUEVES": "",
+        "VIERNES": "A DISTANCIA"
+      }
+    ],
+    "Table 21": [
+      {
+        "HORA": "1:10 a 02:00",
+        "LUNES": "",
+        "MARTES": "",
+        "MIERCOLES": "",
+        "JUEVES": "",
+        "VIERNES": ""
+      },
+      {
+        "HORA": "2:00 a 2:50",
+        "LUNES": "",
+        "MARTES": "",
+        "MIERCOLES": "",
+        "JUEVES": "",
+        "VIERNES": "Laboratorio de Física I"
+      },
+      {
+        "HORA": "2:55 a 3:45",
+        "LUNES": "",
+        "MARTES": "",
+        "MIERCOLES": "",
+        "JUEVES": "",
+        "VIERNES": "Prof. Yolimar GLod"
+      },
+      {
+        "HORA": "3:45 a 4:35",
+        "LUNES": "",
+        "MARTES": "",
+        "MIERCOLES": "",
+        "JUEVES": "",
+        "VIERNES": "SEDE VILLA ASIA - PRESENCIAL"
+      }
+    ],
+    "Table 22": [
+      {
+        "HORA": "7:00 a 7:50",
+        "LUNES": "",
+        "MARTES": "",
+        "MIERCOLES": "",
+        "JUEVES": "",
+        "VIERNES": ""
+      },
+      {
+        "HORA": "7:50 a 8:40",
+        "LUNES": "Desarrollo Humano Prof. Frank Guerra A-13- PRESENCIAL",
+        "MARTES": "",
+        "MIERCOLES": "FISICA II Prof. Roberto Lárez A DISTANCIA",
+        "JUEVES": "Técnicas de Programación II Prof. José Luis Salazar A-13 - PRESENCIAL",
+        "VIERNES": "Inglés Técnico"
+      },
+      {
+        "HORA": "8:45 a 9:35",
+        "LUNES": "",
+        "MARTES": "",
+        "MIERCOLES": "",
+        "JUEVES": "",
+        "VIERNES": "Prof. DELGADO YUDERUD"
+      },
+      {
+        "HORA": "9:35 a 10:25",
+        "LUNES": "",
+        "MARTES": "",
+        "MIERCOLES": "",
+        "JUEVES": "",
+        "VIERNES": "A-13- PRESENCIAL"
+      },
+      {
+        "HORA": "10:30 a 11:20",
+        "LUNES": "Laboratorio de física I",
+        "MARTES": "",
+        "MIERCOLES": "",
+        "JUEVES": "FISICA II",
+        "VIERNES": "Técnicas de Programación II"
+      },
+      {
+        "HORA": "11:20 a 12:10",
+        "LUNES": "Prof. Yolimar Glod",
+        "MARTES": "",
+        "MIERCOLES": "",
+        "JUEVES": "Prof. Roberto Lárez",
+        "VIERNES": "Prof. José Luis Salazar"
+      },
+      {
+        "HORA": "12:10 a 01:00",
+        "LUNES": "SEDE VILLA ASIA - PRESENCIAL",
+        "MARTES": "",
+        "MIERCOLES": "",
+        "JUEVES": "A-13 - PRESENCIAL",
+        "VIERNES": "A DISTANCIA"
+      }
+    ],
+    "Table 23": [
+      {
+        "HORA": "7:00 a 7:50",
+        "LUNES": "",
+        "MARTES": "",
+        "MIERCOLES": "",
+        "JUEVES": "",
+        "VIERNES": ""
+      },
+      {
+        "HORA": "7:50 a 8:40",
+        "LUNES": "",
+        "MARTES": "Laboratorio de física I Prof. Yolimar Glod SEDE VILLA ASIA - PRESENCIAL",
+        "MIERCOLES": "",
+        "JUEVES": "",
+        "VIERNES": ""
+      },
+      {
+        "HORA": "8:45 a 9:35",
+        "LUNES": "",
+        "MARTES": "",
+        "MIERCOLES": "",
+        "JUEVES": "",
+        "VIERNES": ""
+      },
+      {
+        "HORA": "9:35 a 10:25",
+        "LUNES": "",
+        "MARTES": "",
+        "MIERCOLES": "",
+        "JUEVES": "",
+        "VIERNES": ""
+      },
+      {
+        "HORA": "10:30 a 11:20",
+        "LUNES": "",
+        "MARTES": "",
+        "MIERCOLES": "",
+        "JUEVES": "",
+        "VIERNES": ""
+      },
+      {
+        "HORA": "11:20 a 12:10",
+        "LUNES": "",
+        "MARTES": "",
+        "MIERCOLES": "",
+        "JUEVES": "",
+        "VIERNES": ""
+      },
+      {
+        "HORA": "12:10 a 01:00",
+        "LUNES": "",
+        "MARTES": "",
+        "MIERCOLES": "",
+        "JUEVES": "",
+        "VIERNES": ""
+      }
+    ],
+    "Table 24": [
+      {
+        "HORA": "7:00 a 7:50",
+        "LUNES": "",
+        "MARTES": "",
+        "MIERCOLES": "",
+        "JUEVES": "",
+        "VIERNES": ""
+      },
+      {
+        "HORA": "7:50 a 8:40",
+        "LUNES": "",
+        "MARTES": "",
+        "MIERCOLES": "Laboratorio de física I Prof. Yolimar Glod",
+        "JUEVES": "",
+        "VIERNES": ""
+      },
+      {
+        "HORA": "8:45 a 9:35",
+        "LUNES": "",
+        "MARTES": "",
+        "MIERCOLES": "",
+        "JUEVES": "",
+        "VIERNES": ""
+      },
+      {
+        "HORA": "9:35 a 10:25",
+        "LUNES": "",
+        "MARTES": "",
+        "MIERCOLES": "SEDE VILLA ASIA - PRESENCIAL",
+        "JUEVES": "",
+        "VIERNES": ""
+      },
+      {
+        "HORA": "10:30 a 11:20",
+        "LUNES": "",
+        "MARTES": "",
+        "MIERCOLES": "",
+        "JUEVES": "",
+        "VIERNES": ""
+      },
+      {
+        "HORA": "11:20 a 12:10",
+        "LUNES": "",
+        "MARTES": "",
+        "MIERCOLES": "",
+        "JUEVES": "",
+        "VIERNES": ""
+      },
+      {
+        "HORA": "12:10 a 01:00",
+        "LUNES": "",
+        "MARTES": "",
+        "MIERCOLES": "",
+        "JUEVES": "",
+        "VIERNES": ""
+      }
+    ],
+    "Table 25": [
+      {
+        "HORA": "7:00 a 7:50",
+        "LUNES": "",
+        "MARTES": "",
+        "MIERCOLES": "",
+        "JUEVES": "",
+        "VIERNES": ""
+      },
+      {
+        "HORA": "7:50 a 8:40",
+        "LUNES": "Técnicas de Programación III",
+        "MARTES": "Estadística I",
+        "MIERCOLES": "Matemáticas IV",
+        "JUEVES": "Técnicas de Programación III",
+        "VIERNES": "Matemáticas IV"
+      },
+      {
+        "HORA": "8:45 a 9:35",
+        "LUNES": "Prof. Jannelys Bello",
+        "MARTES": "Prof. Domingo Quijada",
+        "MIERCOLES": "Prof. Belkys Mendoza",
+        "JUEVES": "Prof. Jannelys Bello",
+        "VIERNES": "Prof. Belkys Mendoza"
+      },
+      {
+        "HORA": "9:35 a 10:25",
+        "LUNES": "A-14 - PRESENCIAL",
+        "MARTES": "A - DISTANCIA",
+        "MIERCOLES": "A-14 - PRESENCIAL",
+        "JUEVES": "A - DISTANCIA",
+        "VIERNES": "A - DISTANCIA"
+      },
+      {
+        "HORA": "10:30 a 11:20",
+        "LUNES": "Estadística I Prof. Domingo Quijada A-14 - PRESENCIAL",
+        "MARTES": "Circuitos y Sistemas Digitales Profesor Charly Vásquez A - DISTANCIA",
+        "MIERCOLES": "Estructura de Datos Prof. Carlos Abaffy",
+        "JUEVES": "Circuitos y Sistemas Digitales Profesor Charly Vásquez A-15 PRESENCIAL",
+        "VIERNES": "Estructura de Datos Prof. Carlos Abaffy"
+      },
+      {
+        "HORA": "11:20 a 12:10",
+        "LUNES": "",
+        "MARTES": "",
+        "MIERCOLES": "",
+        "JUEVES": "",
+        "VIERNES": ""
+      },
+      {
+        "HORA": "12:10 a 01:00",
+        "LUNES": "",
+        "MARTES": "",
+        "MIERCOLES": "A-14 - PRESENCIAL",
+        "JUEVES": "",
+        "VIERNES": "A - DISTANCIA"
+      }
+    ],
+    "Table 26": [
+      {
+        "HORA": "1:10 a 02:00",
+        "LUNES": "",
+        "MARTES": "",
+        "MIERCOLES": "",
+        "JUEVES": "",
+        "VIERNES": ""
+      },
+      {
+        "HORA": "2:00 a 2:50",
+        "LUNES": "",
+        "MARTES": "",
+        "MIERCOLES": "",
+        "JUEVES": "Laboratorio de Física II",
+        "VIERNES": ""
+      },
+      {
+        "HORA": "2:55 a 3:45",
+        "LUNES": "",
+        "MARTES": "",
+        "MIERCOLES": "",
+        "JUEVES": "Prof. Verónica Pérez",
+        "VIERNES": ""
+      },
+      {
+        "HORA": "3:45 a 4:35",
+        "LUNES": "",
+        "MARTES": "",
+        "MIERCOLES": "",
+        "JUEVES": "SEDE VILLA ASIA - PRESENCIAL",
+        "VIERNES": ""
+      }
+    ],
+    "Table 27": [
+      {
+        "HORA": "1:10 a 02:00",
+        "LUNES": "",
+        "MARTES": "",
+        "MIERCOLES": "",
+        "JUEVES": "",
+        "VIERNES": ""
+      },
+      {
+        "HORA": "2:00 a 2:50",
+        "LUNES": "",
+        "MARTES": "",
+        "MIERCOLES": "Laboratorio de Física II",
+        "JUEVES": "",
+        "VIERNES": ""
+      },
+      {
+        "HORA": "2:55 a 3:45",
+        "LUNES": "",
+        "MARTES": "",
+        "MIERCOLES": "Prof. Verónica Pérez",
+        "JUEVES": "",
+        "VIERNES": ""
+      },
+      {
+        "HORA": "3:45 a 4:35",
+        "LUNES": "",
+        "MARTES": "",
+        "MIERCOLES": "SEDE VILLA ASIA - PRESENCIAL",
+        "JUEVES": "",
+        "VIERNES": ""
+      }
+    ],
+    "Table 28": [
+      {
+        "HORA": "7:00 a 7:50",
+        "LUNES": "",
+        "MARTES": "",
+        "MIERCOLES": "",
+        "JUEVES": "",
+        "VIERNES": ""
+      },
+      {
+        "HORA": "7:50 a 8:40",
+        "LUNES": "Álbebra de Estructuras",
+        "MARTES": "Álgebra de Estructuras",
+        "MIERCOLES": "Sistemas de Bases de Datos I Prof. María Raquel Herrera",
+        "JUEVES": "Arquitectura del Computador Prof. Marco Saraullo",
+        "VIERNES": "Finanzas para Ingenieros"
+      },
+      {
+        "HORA": "8:45 a 9:35",
+        "LUNES": "Prof. Jaime Llorente - A DISTANCIA",
+        "MARTES": "Prof. Jaime Llorente",
+        "MIERCOLES": "",
+        "JUEVES": "",
+        "VIERNES": "Prof. Félix Contreras"
+      },
+      {
+        "HORA": "9:35 a 10:25",
+        "LUNES": "Estadística II",
+        "MARTES": "A-14 - PRESENCIAL",
+        "MIERCOLES": "A-15 PRESENCIAL",
+        "JUEVES": "A-14 PRESENCIAL",
+        "VIERNES": "A - 14"
+      },
+      {
+        "HORA": "10:30 a 11:20",
+        "LUNES": "Prof. Liliana Salomón - A DISTANCIA",
+        "MARTES": "Cálculo Númerico",
+        "MIERCOLES": "Cálculo Númerico",
+        "JUEVES": "Estadística II",
+        "VIERNES": "PRESENCIAL (04 HORAS)"
+      },
+      {
+        "HORA": "11:20 a 12:10",
+        "LUNES": "Arquitectura del Computador",
+        "MARTES": "Prof. Yolimar Medina Toro",
+        "MIERCOLES": "Prof. Yolimar Medina Toro",
+        "JUEVES": "Prof. Liliana Salomón",
+        "VIERNES": "Sistemas de Bases de Datos I"
+      },
+      {
+        "HORA": "12:10 a 01:00",
+        "LUNES": "Prof. Marco Saraullo - A DISTANCIA",
+        "MARTES": "A-14 - PRESENCIAL",
+        "MIERCOLES": "A DISTANCIA",
+        "JUEVES": "A-14 - PRESENCIAL",
+        "VIERNES": "Prof. María Raquel Herrera"
+      },
+      {
+        "HORA": "1:10 a 02:00",
+        "LUNES": "",
+        "MARTES": "",
+        "MIERCOLES": "",
+        "JUEVES": "",
+        "VIERNES": "A DISTANCIA"
+      }
+    ],
+    "Table 29": [
+      {
+        "HORA": "7:00 a 7:50",
+        "LUNES": "",
+        "MARTES": "",
+        "MIERCOLES": "",
+        "JUEVES": "",
+        "VIERNES": ""
+      },
+      {
+        "HORA": "7:50 a 8:40",
+        "LUNES": "Informática Industrial Prof. Víctor Avendaño A DISTANCIA",
+        "MARTES": "Sistemas de Bases de Datos II Prof. José Luis Salazar",
+        "MIERCOLES": "Sistemas de Bases de Datos II Prof. José Luis Salazar",
+        "JUEVES": "Sistemas de Operación",
+        "VIERNES": "Informática Industrial"
+      },
+      {
+        "HORA": "8:45 a 9:35",
+        "LUNES": "",
+        "MARTES": "",
+        "MIERCOLES": "",
+        "JUEVES": "Prof. Oscar Salazar",
+        "VIERNES": "Prof. Víctor Avendaño - A DISTANCIA"
+      },
+      {
+        "HORA": "9:35 a 10:25",
+        "LUNES": "",
+        "MARTES": "A-15 - PRESENCIAL",
+        "MIERCOLES": "A DISTANCIA",
+        "JUEVES": "A-15 - PRESENCIAL",
+        "VIERNES": "Innovación y Desarrollo"
+      },
+      {
+        "HORA": "10:30 a 11:20",
+        "LUNES": "Sistemas de Operación",
+        "MARTES": "Ingeniería del Software I",
+        "MIERCOLES": "Investigación de Operaciones",
+        "JUEVES": "Ingeniería del Software I",
+        "VIERNES": "Prof. Edelis Figuera"
+      },
+      {
+        "HORA": "11:20 a 12:10",
+        "LUNES": "Prof. Oscar Salazar",
+        "MARTES": "Prof. Jesús Rondón",
+        "MIERCOLES": "Prof. Karla López",
+        "JUEVES": "Prof. Jesús Rondón",
+        "VIERNES": "A-15"
+      },
+      {
+        "HORA": "12:10 a 01:00",
+        "LUNES": "A DISTANCIA",
+        "MARTES": "A-15 - PRESENCIAL",
+        "MIERCOLES": "A-15- PRESENCIAL",
+        "JUEVES": "A DISTANCIA",
+        "VIERNES": "PRESENCIAL (04 HORAS)"
+      }
+    ],
+    "Table 30": [
+      {
+        "HORA": "1:10 a 02:00",
+        "LUNES": "",
+        "MARTES": "",
+        "MIERCOLES": "Redes de Computadoras I",
+        "JUEVES": "Lenguaje y Compiladores",
+        "VIERNES": ""
+      },
+      {
+        "HORA": "2:00 a 2:50",
+        "LUNES": "Seminario de Investigación",
+        "MARTES": "",
+        "MIERCOLES": "Prof. Manuel Paniccia",
+        "JUEVES": "Prof. Félix Márquez",
+        "VIERNES": "Tendencias Informáticas"
+      },
+      {
+        "HORA": "2:55 a 3:45",
+        "LUNES": "Prof. Dignora Avarullo",
+        "MARTES": "",
+        "MIERCOLES": "A-02",
+        "JUEVES": "A-02",
+        "VIERNES": "Prof. Irving González"
+      },
+      {
+        "HORA": "3:45 a 4:35",
+        "LUNES": "A-02- PRESENCIAL",
+        "MARTES": "",
+        "MIERCOLES": "PRESENCIAL",
+        "JUEVES": "PRESENCIAL",
+        "VIERNES": "A-02 - PRESENCIAL"
+      }
+    ],
+    "Table 31": [
+      {
+        "HORA": "1:10 a 02:00",
+        "LUNES": "DESARROLLO WEB",
+        "MARTES": "COMPUTACIÓN GRÁFICA",
+        "MIERCOLES": "INFORMÁTICA FORENSE",
+        "JUEVES": "TRANSFERENCIA DE TECNOLOGÍA",
+        "VIERNES": ""
+      },
+      {
+        "HORA": "2:00 a 2:50",
+        "LUNES": "Prof. Dubraska Roca",
+        "MARTES": "Prof. Manuel Paniccia",
+        "MIERCOLES": "Prof. Oscar Salzar",
+        "JUEVES": "Prof. Carlos Guevara",
+        "VIERNES": ""
+      },
+      {
+        "HORA": "2:55 a 3:45",
+        "LUNES": "A DISTANCIA",
+        "MARTES": "A-02- PRESENCIAL",
+        "MIERCOLES": "A-08 - PRESENCIAL",
+        "JUEVES": "A DISTANCIA",
+        "VIERNES": ""
+      },
+      {
+        "HORA": "3:45 a 4:35",
+        "LUNES": "ELECTIVA III",
+        "MARTES": "ELECTIVA II",
+        "MIERCOLES": "ELECTIVA III",
+        "JUEVES": "ELECTIVA I",
+        "VIERNES": ""
+      }
+    ],
+    "Table 32": [
+      {
+        "HORA": "1:10 a 02:00",
+        "LUNES": "Sistemas Distribuidos",
+        "MARTES": "Auditoría de Tecnólogias y Sist. Inf.",
+        "MIERCOLES": "Ingeniería Económica",
+        "JUEVES": "Seminario de Trabajo de Grado",
+        "VIERNES": "Telecomunicaciones I"
+      },
+      {
+        "HORA": "2:00 a 2:50",
+        "LUNES": "Prof. Damian Flores",
+        "MARTES": "Prof. Rosangel Uricare",
+        "MIERCOLES": "Prof. Yris Zapata",
+        "JUEVES": "Prof. Dignora Avarullo",
+        "VIERNES": "Prof. Charly Vásquez"
+      },
+      {
+        "HORA": "2:55 a 3:45",
+        "LUNES": "A-18",
+        "MARTES": "A-08",
+        "MIERCOLES": "A-18",
+        "JUEVES": "A-08",
+        "VIERNES": "A-08"
+      },
+      {
+        "HORA": "3:45 a 4:35",
+        "LUNES": "PRESENCIAL",
+        "MARTES": "PRESENCIAL",
+        "MIERCOLES": "PRESENCIAL",
+        "JUEVES": "PRESENCIAL",
+        "VIERNES": "PRESENCIAL"
+      }
+    ],
+    "Table 33": [
+      {
+        "HORA": "1:10 a 02:00",
+        "LUNES": "",
+        "MARTES": "Seguridad de la Información",
+        "MIERCOLES": "",
+        "JUEVES": "",
+        "VIERNES": "Simulación Informática"
+      },
+      {
+        "HORA": "2:00 a 2:50",
+        "LUNES": "",
+        "MARTES": "Prof. Leniska Quilárquez",
+        "MIERCOLES": "",
+        "JUEVES": "",
+        "VIERNES": "Prof. Sergio Romero"
+      },
+      {
+        "HORA": "2:55 a 3:45",
+        "LUNES": "",
+        "MARTES": "A-18",
+        "MIERCOLES": "",
+        "JUEVES": "",
+        "VIERNES": "A-18"
+      },
+      {
+        "HORA": "3:45 a 4:35",
+        "LUNES": "",
+        "MARTES": "PRESENCIAL",
+        "MIERCOLES": "",
+        "JUEVES": "",
+        "VIERNES": "PRESENCIAL"
+      }
+    ],
+    "LAPSO": "2022-II",
+    "SEMESTRE": "I",
+    "LAPSO2": "2022-II",
+    "SEMESTRE2": "IV",
+    "SECCIÓN": "02",
+    "LAPSO3": "2022-II",
+    "SEMESTRE3": "V",
+    "SECCIÓN2": "01",
+    "created_at": "2023-05-30T23:09:10.679Z"
+  }
+]
